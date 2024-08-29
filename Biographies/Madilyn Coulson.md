@@ -1,13 +1,13 @@
 # Madilyn Coulson
 
-## Contact Information
-**Email:** coulsomj@mail.uc.edu
-**Phone:** 740-815-2251
+### Contact Information
+- **Email:** coulsomj@mail.uc.edu
+- **Phone:** 740-815-2251
 
-## Co-op and University Experience
+### Co-op and University Experience
 
-## Technical Skills
+### Technical Skills
 
-## Areas of Interest
+### Areas of Interest
 
-## Project Sought
+### Project Sought
