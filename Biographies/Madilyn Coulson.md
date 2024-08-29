@@ -4,6 +4,7 @@
 - **Email:** coulsomj@mail.uc.edu
 - **Phone:** 740-815-2251
 
+
 ### Co-op and University Experience
 **Siemens C++ API Development Co-op | Milford, Ohio | May 2024 – Aug 2024, Jan 2023 – Dec 2023, Jan 2022 – Aug 2022**
 - Maintained and developed C++ APIs for Siemens NX, incorporating object-oriented design principles and extensive testing
@@ -32,16 +33,21 @@
 - Collaborated with students from the University of Cape Coast in Ghana and Bahir Dar University in Ethiopia to develop a personal weather station module using Arduino microcontroller and Raspberry Pi
 - Enhanced personal cultural knowledge, appreciation, and awareness while developing virtual collaboration skils at an international level
 
+
 ### Technical Skills
 - **Programming Languages:** C, C++, C#, JavaScript, Python, TypeScript
 - **Software:** Amazon Web Services, Docker, Git, GitHub, GitLab, KDiff3, Knex.js, Microsoft Excel, PowerPoint, Teams, and Word, Node.js, Notepad++, OpenGL, PostgreSQL, Postman, Robocorp, Siemens NX, Sikuli, Slack
 - **Operating Systems and IDEs:** Eclipse, Linux Ubuntu (64-bit), Visual Studio Code, Visual Studios, Windows (64-bit)
+
 
 ### Areas of Interest
 - Cloud Computing
 - App Development
 - UI Design
 - C++ API Design
+- Medical Technologies
+
 
 ### Project Sought
-- Developing an app with a goal towards environmental consciousness and improved sustainability practice
+- Developing an application with a goal towards environmental consciousness and improved sustainability practice
+- Assisting a local volunteer organization or community that may need an app or website developed for them
