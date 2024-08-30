@@ -64,5 +64,11 @@ Welcome to my professional biography. I am a 5th year Computer Science student a
 **Non-Technical Skills:**
 - Communication, Teamwork, Leadership, Flexibility, Problem Solving, Time Management, Attention to Detail, Organization
 
-## Project Sought
-tbd
+## Areas of Interest
+- Computer Networking
+- UI design
+- Automation
+
+## Project Ideas
+- Develop a philanthropic product to help a specific group of people
+- Create an app or website to help teach others about various computer science topics
