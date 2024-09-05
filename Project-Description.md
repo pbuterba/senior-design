@@ -1,5 +1,4 @@
-# Senior Design Project
-CS 5001 &amp; 5002 - Computer Science Senior Design
+# Project Description
 
 Team: Preston Buterbaugh, Madilyn Coulson, Chloe Belletti, and Isabella Hall
 Majors: All computer science
