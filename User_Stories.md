@@ -1,0 +1,5 @@
+As a teacher I want to create dynamic illustrations of how C code converts to assembly language, so that I can easily and efficienty demonstrate re-creatable examples to my students.
+As a teacher I want to have a visual representation of how the execution of assembly code affects the stack and registers in a computer, so that my students can visualize low-level programming concepts.
+As a teacher I want to be able to save code snippets from previous assembly language demonstrations, so that I can reuse them in future classes.
+As a student I want to be able to get hands-on experience with compiling C code and seeing how it converts to assembly code, so that I can better understand these concepts.
+As a student I want to be able to create my own examples of assembly code, and see its execution in progress, so that I can enhance my learning outside of class.
