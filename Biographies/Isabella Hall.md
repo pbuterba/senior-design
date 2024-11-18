@@ -60,4 +60,4 @@ throughout Covid-19
 
 
 ## Capstone Sought 
-I am looking for capstone that has a UI component to it and that is focused on enhancing user performance and productivity. I really enjoy front end programming and would like to work with that as well as using API calls. I think something that uses data modeling or data managemnt would also be great as I have previous experience in that and enjoy working on those aspects. 
+I am looking for capstone that has a UI component to it and that is focused on enhancing user performance and productivity. I really enjoy front end programming and would like to work with that as well as using API calls. I think something that uses data modeling or data management would also be great as I have previous experience in that and enjoy working on those aspects. Expanding my horizons with a larger emphasis on backend coding would probably be helpful as well simply because I don't have as much exposure to that.   
