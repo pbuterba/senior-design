@@ -36,7 +36,7 @@
 
 ### Technical Skills
 - **Programming Languages:** C, C++, C#, JavaScript, Python, TypeScript
-- **Software:** Amazon Web Services, Docker, Git, GitHub, GitLab, KDiff3, Knex.js, Microsoft Excel, PowerPoint, Teams, and Word, Node.js, Notepad++, OpenGL, PostgreSQL, Postman, Robocorp, Siemens NX, Sikuli, Slack
+- **Software:** Amazon Web Services, Docker, Git, GitHub, GitLab, KDiff3, Knex.js, Microsoft Excel, PowerPoint, Teams, and Word, Node.js, Notepad++, OpenGL, PostgreSQL, Postman, Robocorp, Siemens NX, Sikuli, Slack, Svelte
 - **Operating Systems and IDEs:** Eclipse, Linux Ubuntu (64-bit), Visual Studio Code, Visual Studios, Windows (64-bit)
 
 
@@ -45,9 +45,10 @@
 - App Development
 - UI Design
 - C++ API Design
-- Medical Technologies
+- Back-end Development
+- Full-stack Development
+- Three-tier Architecture Development and Implementation
 
 
 ### Project Sought
-- Developing an application with a goal towards environmental consciousness and improved sustainability practice
-- Assisting a local volunteer organization or community that may need an app or website developed for them
+I am open to any project idea, but it is important to me that I am optimizing the wide variety of skill sets, in both front-end and back-end, that I have acquired throughout my academic and co-op experiences. I would enjoy working on a project that gives back towards a community in some way, whether that is academic, professional, environmental, communal, etc. 
