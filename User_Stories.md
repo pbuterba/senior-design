@@ -2,4 +2,5 @@ As a teacher, I want to create dynamic illustrations of how C code converts to a
 As a teacher, I want to have a visual representation of how the execution of each line of assembly code affects the stack and registers in a computer, so my students can visualize low-level programming concepts. <br />
 As a teacher, I want to be able to save code snippets from previous C and assembly language demonstrations, so I can reuse them in future classes. <br />
 As a student, I want to get hands-on experience with compiling C code and viewing the conversion to assembly code, so I can better understand low-level coding concepts. <br />
-As a student, I want to create my own examples of C to assembly code and see its execution in progress, so I can enhance my learning outside of class.
+As a student, I want to create my own examples of C to assembly code and see its execution in progress, so I can enhance my learning outside of class. <br />
+As a student, I want to login to the Hackademia application, so I can view my past code entries to help with class assignments and studying.<br />
