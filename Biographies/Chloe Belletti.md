@@ -1,6 +1,6 @@
 # Chloe Belletti - Professional Biography
 
-Welcome to my professional biography. I am a 5th year Computer Science student at the University of Cincinnati. On this page, you'll find an overview of my background, work experience, and the type of capstone project I'm seeking.
+I am a 5th year Computer Science student at the University of Cincinnati. On this page, you'll find an overview of my background, work experience, and the type of capstone project I'm seeking.
 
 ## Contact Information
 
