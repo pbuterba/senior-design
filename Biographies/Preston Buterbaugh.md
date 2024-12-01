@@ -44,8 +44,8 @@ Email: [buterbps@mail.uc.edu](mailto:buterbps@mail.uc.edu)
 
 ## Skills/expertise areas
 + Programming: Java, C++, Python, LabVIEW, MATLAB, VBA
-+ Web Development: HTML, CSS, JavaScript, TypeScript
-+ UI Design: React
++ Web Development: HTML, CSS, JavaScript, TypeScript, Python Flask, Vite
++ UI Design: React, Svelte
 + Database Programming: MySQL
 + Version Control: Git, GitHub, Bitbucket, GitLab
 
