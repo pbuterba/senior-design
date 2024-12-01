@@ -15,10 +15,11 @@ Senior Design Project for the 2024-2025 academic year.
 + [Project Description](Project-Description.md)
 + [User Stories](User_Stories.md)
 + [Design Diagrams](design-diagrams)
-  + [Level 0](design-diagrams/D0.pdf)
-  + [Level 1](design-diagrams/D1.pdf)
-  + [Level 2](design-diagrams/D2.pdf)
-+ [Task List](project-management/Tasklist.md)
+  + [Level 0](design-diagrams/D0-design-diagram.png)
+  + [Level 1](design-diagrams/D1-design-diagram.png)
+  + [Level 2](design-diagrams/D2-design-diagram.png)
+  + [Diagram Descriptions](design-diagrams/Design%20Diagram%20Descriptions.pdf)
++ [Task List](project-management/TaskList.md)
 + [Timeline](project-management/timeline.xlsx)
 + [Effort Matrix](project-management/effort-matrix.xlsx)
 + [ABET Concerns Essay](homework-essays/Assignment%20%237%20-%20Project%20Constraints%20Final.pdf)
@@ -35,4 +36,8 @@ Senior Design Project for the 2024-2025 academic year.
   + [Isabella Hall](Biographies/Isabella%20Hall.md)
 + Budget - There have been no expenses or donated items for this project
 + Appendix
-  + [Time Tracking](project-management/time-tracking.xlsx)
+  + Time Tracking
+    + [Chloe Belletti](project-management/time-tracking/Chloe-Belletti.xlsx)
+    + [Preston Buterbaugh](project-management/time-tracking/Preston-Buterbaugh.xlsx)
+    + [Madilyn Coulson](project-management/time-tracking/Madilyn-Coulson.xlsx)
+    + [Isabella Hall](project-management/time-tracking/Isabella-Hall.xlsx)
