@@ -35,12 +35,11 @@ Senior Design Project for the 2024-2025 academic year.
   + [Madilyn Coulson](Biographies/Madilyn%20Coulson.md)
   + [Isabella Hall](Biographies/Isabella%20Hall.md)
 + Budget - There have been no expenses or donated items for this project
++ User Documentation
+  + [Frequently Asked Questions](user-documentation/FrequentlyAskedQuestions.md)
 + Appendix
   + Time Tracking
     + [Chloe Belletti](project-management/time-tracking/Chloe-Belletti.xlsx)
     + [Preston Buterbaugh](project-management/time-tracking/Preston-Buterbaugh.xlsx)
     + [Madilyn Coulson](project-management/time-tracking/Madilyn-Coulson.xlsx)
     + [Isabella Hall](project-management/time-tracking/Isabella-Hall.xlsx)
-
-**User Documentation:**
-+ [Frequently Asked Questions](user-documentation/FrequentlyAskedQuestions.md)
