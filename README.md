@@ -41,3 +41,6 @@ Senior Design Project for the 2024-2025 academic year.
     + [Preston Buterbaugh](project-management/time-tracking/Preston-Buterbaugh.xlsx)
     + [Madilyn Coulson](project-management/time-tracking/Madilyn-Coulson.xlsx)
     + [Isabella Hall](project-management/time-tracking/Isabella-Hall.xlsx)
+
+**User Documentation:**
++ [Frequently Asked Questions](user-documentation/FrequentlyAskedQuestions.md)
