@@ -5,7 +5,7 @@
 Hackademia is an interactive learning platform designed for students studying topics such as programming, computer architecture, and network security. The platform provides various tools to help users understand complex concepts through hands-on experience. 
 
 ### Key Modules:
-- **C-to-Assembly Emulator** (Our focus) – Converts C code into equivalent assembly, animating the call stack and registers for better visualization.
+- **The Dynamic Call Stack** (Our focus) – Converts C code into equivalent assembly, animating the call stack and registers for better visualization.
 - **Buffer Overflow Module** – Demonstrates vulnerabilities in memory management and teaches secure coding practices.
 - **Command Injection Module** – Explores command injection attacks and how to prevent them.
 
