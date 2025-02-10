@@ -37,6 +37,7 @@ Senior Design Project for the 2024-2025 academic year.
 + Budget - There have been no expenses or donated items for this project
 + User Documentation
   + [Frequently Asked Questions](user-documentation/FrequentlyAskedQuestions.md)
+  + [User Guide](user-documentation/UserGuide.md)
 + Appendix
   + Time Tracking
     + [Chloe Belletti](project-management/time-tracking/Chloe-Belletti.xlsx)
